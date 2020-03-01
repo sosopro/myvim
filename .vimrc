@@ -8,6 +8,7 @@ set autoindent
 "set filleencodings=utf8
 set termencoding=utf-8
 set encoding=utf-8
+"set list lcs=tab:\|\ 
 set t_Co=256
 if has('gui_running')
     colorscheme default
